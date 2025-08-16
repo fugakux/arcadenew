@@ -403,7 +403,7 @@ npm start  # http://localhost:3000
 ## 10) Ownership & Contacts
 
 - **Owner:** `@fugakux`  
-- Add Discord/Email for ops and escalation for handoffs.
+- Discord: Fugaku(contact for questions)
 
 ---
 
